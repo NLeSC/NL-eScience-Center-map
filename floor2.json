@@ -121,7 +121,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"floor1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"floor3.json"
                 }],
          "type":"tilelayer",
          "visible":true,
